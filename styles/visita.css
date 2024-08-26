@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'MetroDF';
+    src: url(/fuentes/MetroDF.woff2) format('woff2'),url(/fuentes/MetroDF.woff) format('woff');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+
+#logo{
+    height: 50px;
+}
+
+h1, h2 {
+    font-family: 'MetroDF';
+    text-align: center;
+}
+
+.nav-item{
+    font-family: 'MetroDF';
+}
+
+body{
+    font-family: 'Anek Devanagari';
+    font-size: 25px;
+}
+
+#imagen-visita{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin: 4px;
+}
+p{
+    text-align: justify;
+}
+
+.caja-chapu {
+    background-color: #ff0990;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 90%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    font-family: 'MetroDF';
+    justify-content: center;
+}
+
+.caja-CU{
+    background:#040434;
+    color: #a77c04;
+    border-radius: 15px;
+    padding: 10px;
+    width: 90%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    font-family: 'MetroDF';
+    justify-content: center;
+}
+
+.centro{
+    background:#006fb9;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 90%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    font-family: 'MetroDF';
+    justify-content: center;
+}
+
+.col-12{
+    text-align: center;
+}
